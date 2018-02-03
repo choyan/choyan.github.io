@@ -1,36 +1,37 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: choyan.009@gmail.com
+title: Zahidul Hossain
 description: > # this means to ignore newlines until "baseurl:"
-  স্বপ্নীল চোখে স্বপ্নালু হয়ে দিচ্ছি পাড়ি বিদ্ধস্ত জনপদ.
+  স্বপ্নীল চোখে স্বপ্নালু হয়ে দিচ্ছি পাড়ি বিদ্ধস্ত জনপদ
+permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://choyan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ch0yan
-github_username:  choyan
+url: "choyan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: ch0yan#if your site has a twitter account, enter it here
 
-# Build settings
+# Author Settings
+author: Zahidul Hossain # add your name
+author-img: choyan.img # add your photo
+about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+twitter: ch0yan# add your Twitter handle
+facebook: # add your Facebook handle
+github: choyan # add your Github handle
+linkedin: choyan# add your Linkedin handle
+email: choyan.009@gmail.com # add your Email address
+
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
 markdown: kramdown
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
-# theme: minima
-# gems:
-#   - jekyll-feed
+
+paginate: 8
+paginate_path: "/page/:num"
+
 exclude:
   - Gemfile
   - Gemfile.lock
