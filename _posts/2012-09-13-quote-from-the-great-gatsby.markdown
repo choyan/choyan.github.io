@@ -3,6 +3,8 @@ layout: post
 title:  "Quote from The Great Gatsby"
 date:   2012-09-13 19:28:02 +0600
 categories: quotes
+img: gatsby.jpg
+tags: [Quotes, The Great Gatsby]
 ---
 I want to share some beautiful quotes I learned a few days ago. All of these are from the famous novel “The Great Gatsby”.
 
