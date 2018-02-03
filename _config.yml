@@ -24,9 +24,13 @@ github_username:  choyan
 
 # Build settings
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+# theme: minima
+# gems:
+#   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
