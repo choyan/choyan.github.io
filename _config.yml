@@ -4,7 +4,7 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "choyan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: ch0yan#if your site has a twitter account, enter it here
+site-twitter: ch0yan #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Zahidul Hossain # add your name
@@ -17,7 +17,7 @@ linkedin: choyan # add your Linkedin handle
 email: choyan.009@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: mr-brown # add your discus identifier
+#discus-identifier: mr-brown # add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
