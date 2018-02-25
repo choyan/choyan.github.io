@@ -4,7 +4,7 @@ title:  "বাচ্চাদের নিয়ে অভিযোগ"
 date:   2017-01-27 19:28:02 +0600
 categories: psychology
 #description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: gatsby.jpg
+# img: gatsby.jpg
 tags: [Psychology, Childs]
 ---
 
