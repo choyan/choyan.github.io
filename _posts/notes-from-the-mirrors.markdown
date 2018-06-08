@@ -4,7 +4,7 @@ title:  "Notes from 'Mirrors' by Eduardo Galeano
 date:   2018-06-01 22:34:02 +0600
 # description:
 # categories: facebook-post
-# img: gatsby.jpg
+img: mirrors.jpg
 tags: [Quotes, Mirrors]
 ---
 
