@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "প্রশ্ন করার ধরণ"
-date:   2018-06-08 21:47:10 +0600
+date:   2018-06-05 18:36:10 +0600
 categories: facebook-post
 # img: gatsby.jpg
 # tags: [Quotes, The Great Gatsby]
