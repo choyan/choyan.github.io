@@ -5,7 +5,7 @@ date:   2018-05-23 19:02:02 +0600
 # categories: facebook-posts
 #description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 # img: gatsby.jpg
-tags: [Psychology, Facebook Posts]
+tags: [Psychology, Facebook Posts, Turkey]
 ---
 
 স্কুল, কলেজ, অনার্স শেষ করলাম। কিন্ত সত্যি বলতে বিদায় জিনিসটা আমাকে খুবই কম টাচ করেছে। কাছের বন্ধু-বান্ধবদের থেকে আলাদা হলেও, অন্তরের কানেকশনটা নষ্ট হওয়ার ভয় কখনো করিনি।
