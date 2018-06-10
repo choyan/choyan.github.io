@@ -1,10 +1,8 @@
 ---
 layout: post
-title:  "জানালা"
-date:   2017-08-04 21:08:02 +0600
-<!-- categories: quotes -->
-<!-- img: Turkish_Language.jpg -->
-tags: [Facebook Posts, Turkey]
+title:  "বয়সের সাথে সাহিত্যের সম্পর্ক"
+date:   2017-05-28 21:08:02 +0600
+tags: [Facebook Posts, সাহিত্য]
 ---
 
 
