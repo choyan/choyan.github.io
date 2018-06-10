@@ -3,7 +3,7 @@ layout: post
 title:  "Book Review - Born a Crime"
 date:   2017-08-20 20:08:02 +0600
 <!-- categories: quotes -->
-<!-- img: Turkish_Language.jpg -->
+img: born-a-crime.jpg
 tags: [Book Review]
 ---
 
