@@ -2,8 +2,7 @@
 layout: post
 title:  "বই রিভিউ - খাকি চত্বরের খোয়ারি"
 date:   2017-06-09 21:08:02 +0600
-<!-- categories: quotes -->
-<!-- img: Turkish_Language.jpg -->
+img: khaki.jpg
 tags: [Book Review]
 ---
 
