@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "জানালা"
-date:   2017-07-16 21:08:02 +0600
+title:  "বই রিভিউ - খাকি চত্বরের খোয়ারি"
+date:   2017-06-09 21:08:02 +0600
 <!-- categories: quotes -->
 <!-- img: Turkish_Language.jpg -->
-tags: [Facebook Posts, Turkey]
+tags: [Book Review]
 ---
 
 
