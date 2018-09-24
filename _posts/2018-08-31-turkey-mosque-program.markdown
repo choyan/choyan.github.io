@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "সব শেষ হয়ে যাবে"
+title:  "তুরষ্কে মসজিদ প্রোগ্রাম"
 date:   2018-08-31 20:31:02 +0600
 img: turkey-mosque.jpg
 tags: [Turkey]
@@ -27,4 +27,5 @@ Vatanımın neşesi
 
 শুধু এই সকল কার্যকলাপেই যে তুরষ্ক ইসলামি রাষ্ট্র হয়ে যাবে সেটা বলছিনা। সেটা আশাও করছিনা। জাস্ট কোথায় কাদের সাথে কিরুপ আচরণ করা হয়, সেটার পার্থক্য বলছি। রাষ্টের দায়িত্ব ভবিষ্যতে এই নতুন প্রজন্মই নিবে, তাইনা ? তাদেরকে কোন দিকে গাইড করতে চাই তার দায়িত্ব আমাদের সবার।
 
-https://www.instagram.com/p/Bm8BSxtFF11/?taken-by=konyakultur
+[Instagram Post of the event](https://www.instagram.com/p/Bm8BSxtFF11/?taken-by=konyakultur)
+
