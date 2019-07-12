@@ -3,7 +3,7 @@ layout: post
 title:  "ঢাকার বাইরে"
 date:   2017-02-01 21:08:02 +0600
 <!-- img: Turkish_Language.jpg -->
-tags: [Gazipur]
+tags: [বাংলাদেশ]
 ---
 
 "ঢাকা শহর থেকে যদি বের হয়ে যেতে পারতাম!!!"
