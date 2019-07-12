@@ -5,7 +5,7 @@ date:   2017-01-27 19:28:02 +0600
 # categories: psychology
 #description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 # img: gatsby.jpg
-tags: [Psychology, Childs]
+tags: [Psychology]
 ---
 
 এখনকার বাচ্চাদের নিয়ে সবচেয়ে যেই অভিযোগ, তা হলো বাচ্চারা সারাদিন কার্টুন নিয়ে বসে থাকে। এবার ফেনীতে গিয়ে নিজের কাজিনদের কার্যকলাপ কিছুদিন পর্যবেক্ষণ করলাম। অবজারভেসনটা নতুন কিছু না। কিন্ত নিজের চোখে যা দেখলাম আর বুঝলাম তা নিয়ে একটু লেখা।
