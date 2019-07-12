@@ -2,9 +2,7 @@
 layout: post
 title:  "বিদায় বাংলাদেশ"
 date:   2017-09-26 20:08:02 +0600
-<!-- categories: quotes -->
-<!-- img: Turkish_Language.jpg -->
-tags: [Facebook Posts, Turkey]
+tags: [Turkey]
 ---
 
 বিদায় বাংলাদেশ :)

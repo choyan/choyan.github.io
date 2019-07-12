@@ -2,7 +2,7 @@
 layout: post
 title:  "লোডশেডিং"
 date: 2016-08-12 21:08:02 +0600
-tags: [Facebook Posts, Poem]
+tags: [Poem]
 ---
 
 লোডশেডিংময় বিনীদ্র রজনী,
