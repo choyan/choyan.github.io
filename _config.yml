@@ -13,8 +13,9 @@ author-img: choyan.jpg # add your photo
 twitter: ch0yan #add your Twitter handle
 facebook: # add your Facebook handle
 github: choyan # add your Github handle
+gitstalk: choyan # add gitstalk handle
 linkedin: choyan # add your Linkedin handle
-email: choyan.009@gmail.com # add your Email address
+email: zhchoyan@gmail.com # add your Email address
 
 # Disqus
 #discus-identifier: mr-brown # add your discus identifier
@@ -29,7 +30,7 @@ plugins:
   - jekyll-paginate
   - jemoji
 
-paginate: 8
+paginate: 10
 paginate_path: "/page/:num"
 
 exclude:

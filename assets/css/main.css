@@ -1109,8 +1109,9 @@ footer .copyright {
   -webkit-transition: all .3s ease;
   -o-transition: all .3s ease;
   transition: all .3s ease;
-  -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
-          box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+  -webkit-box-shadow: 1px 1px 3px 0 rgba(31, 35, 46, 0.15), -1px -1px 3px 0 rgba(31, 35, 46, 0.15);
+          box-shadow: 1px 1px 3px 0 rgba(31, 35, 46, 0.15), -1px -1px 3px 0 rgba(31, 35, 46, 0.15);
+
 }
 
 .post:hover {
@@ -1446,4 +1447,14 @@ a.newer-posts:hover {
   .post .post-content .post-title a {
     font-size: 21px;
   }
+}
+.pagination ul {
+  padding-left: 0;
+}
+.pagination ul:first-child {
+  margin-left: 0;
+}
+.pagination p {
+  display: inline-block;
+  margin: 0 20px;
 }
