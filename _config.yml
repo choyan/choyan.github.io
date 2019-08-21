@@ -1,14 +1,14 @@
 title: Zahidul Hossain
 description: > # this means to ignore newlines until "baseurl:"
   স্বপ্নীল চোখে স্বপ্নালু হয়ে দিচ্ছি পাড়ি বিদ্ধস্ত জনপদ
-permalink: ':title/'
+permalink: 'blog/:title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "choyan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: ch0yan
 
 # Author Settings
 author: Zahidul Hossain # add your name
-author-img: choyan.jpg # add your photo
+author-img: choyan-2.jpg # add your photo
 #about-author: I am a web developer focusing on front-end development. Always hungry to keep learning.
 twitter: ch0yan #add your Twitter handle
 facebook: # add your Facebook handle
@@ -31,7 +31,7 @@ plugins:
   - jemoji
 
 paginate: 10
-paginate_path: "/page/:num"
+paginate_path: "/blog/page/:num/"
 
 exclude:
   - Gemfile
