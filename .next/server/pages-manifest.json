@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/api/github": "pages/api/github.js",
+  "/api/medium": "pages/api/medium.js",
+  "/api/now-playing": "pages/api/now-playing.js",
+  "/api/top-tracks": "pages/api/top-tracks.js",
+  "/": "pages/index.html",
+  "/blog": "pages/blog.html",
+  "/testimonials": "pages/testimonials.html",
+  "/top-tracks": "pages/top-tracks.html",
+  "/_error": "pages/_error.js",
+  "/blog/[slug]": "pages/blog/[slug].html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
