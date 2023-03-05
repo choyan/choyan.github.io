@@ -3,5 +3,6 @@ _site
 .jekyll-metadata
 .idea
 node_modules
-.next
-out
+.next/
+out/
+.DS_Store
