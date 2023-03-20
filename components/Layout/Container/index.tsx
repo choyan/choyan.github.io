@@ -23,9 +23,9 @@ interface ContainerProps {
 export default function Container({ children, ...customMeta }: ContainerProps) {
   const router = useRouter();
   const meta = {
-    title: "Zahidul Hossain – Front-end Engineer",
-    description: `React developer, JavaScript enthusiast, and freelancer.`,
-    image: "https://www.adrinlol.com/assets/png/Thumbnail.png",
+    title: "Zahidul Hossain – Senior UI Engineer, @dorik",
+    description: `Front-end Engineer from Bangladesh. Thriller and History reader.`,
+    image: "https://choyan.github.io/assets/png/choyan.jpeg",
     type: "website",
     ...customMeta,
   };
@@ -47,9 +47,9 @@ export default function Container({ children, ...customMeta }: ContainerProps) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://adrinlol.com${router.asPath}`}
+          content={`https://choyan.github.io${router.asPath}`}
         />
-        <link rel="canonical" href={`https://adrinlol.com${router.asPath}`} />
+        <link rel="canonical" href={`https://choyan.github.io${router.asPath}`} />
         <meta property="og:type" content={meta.type} />
         <meta property="og:site_name" content="Zahidul Hossain" />
         <meta property="og:description" content={meta.description} />
