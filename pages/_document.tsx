@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <script async defer data-website-id="87818b59-d080-4779-aa25-d9c521dc4a3f" src="https://umami-analytics-redeploy.vercel.app/umami.js" />
+          <script async src="https://analytics.umami.is/script.js" data-website-id="0acee280-61de-4f3f-a1fb-6a388a5bdfed"></script>
       </Head>
       <body>
         <Main />
