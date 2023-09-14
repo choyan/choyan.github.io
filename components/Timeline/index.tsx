@@ -38,10 +38,10 @@ export const Timeline = () => {
       <Year>February, 2017 - April, 2017</Year>
       <ul>
         <Step title="Research Fello @BSMRAU">
-          <li>• I was responsible for Developing an android application for the farmers to train them about various crop-related diseases.</li>
-          <li>•	Surveyed and analyzed the result of the usage of the application.</li>
-          <li>•	Engineered in the Deployment of the E-Village data center.</li>
-          <li>•	<strong> Technology:</strong> Ionic framework, Cordova, WordPress</li>
+          <li>• Developed an Android application to educate farmers about crop-related diseases, aiding agricultural advancement.</li>
+          <li>•	Conducted surveys and analyzed user data to measure the effectiveness and impact of the educational application.</li>
+          <li>•	Engineered the deployment of the E-Village data center, enhancing data management and accessibility for the university.</li>
+          <li>•	<strong> Tech Stack:</strong> Ionic framework, Cordova, WordPress</li>
         </Step>
       </ul>
 
@@ -52,7 +52,7 @@ export const Timeline = () => {
           <li>•	Development of Pixel Perfect Web User Interface with HTML, CSS and JavaScript.</li>
           <li>•	Web performance analysis with Chrome DevTools and NodeJS.</li>
           <li>•	WordPress theme development, management, and customization.</li>
-          <li>•	Android Application Development with Angular 1.3, Ionic Framework and Cordova.</li>
+          <li>•	<strong>Tech Stack:</strong> Android Application Development with Angular 1.3, Ionic Framework and Cordova.</li>
         </Step>
       </ul>
       <Divider />
@@ -62,20 +62,24 @@ export const Timeline = () => {
   return (
     <>
       <h3>Work Experience</h3>
-      <Year>January, 2022</Year>
+      <Year>January, 2022 - Current</Year>
       <ul>
         <Step title="Senior UI Engineer @ Dorik Inc.">
-          Developing next generational No-Code Website Builder.
+          <li>• Demonstrated effective team leadership at DORIK, fostering a collaborative environment that drove improvements in platform development and developer experience.</li>
+          <li>• Managed intricate data structures, improving platform performance and enabling seamless data manipulation for an enhanced user experience.</li>
+          <li>• Implemented user-centric design principles, ensuring an intuitive and visually appealing platform, placing a strong emphasis on user experience.</li>
+          <li>• Worked to improve the developer experience within the team, contributing to a more efficient and collaborative environment.</li>
+          {/* <li>• <strong>Tech Stack:</strong> ReactJS, Redux, React-Query, ViteJS, TurboRepo, Zustand</li> */}
         </Step>
       </ul>
       <Divider />
       <Year>January, 2020 - December, 2021</Year>
       <ul>
         <Step title="Senior Front-end Developer @Makdos Bilisim">
-         <li>• Developing rich user interfaces for their mail delivery platform and OmniChannel Customer Service application.</li>
-         <li>•	Implementing real-time data fetching using WebSocket to enhance user engagement. </li>
-         <li>•	Supervising and mentoring Junior Developers in different projects to boost up productivity and implement state-of-the-art solutions.</li>
-         <li>•	<strong>Technology:</strong> Typescript, ReactJS, Gatsby, NextJS, WebSocket, PWA, Redux, Zustand</li>
+         <li>• Led omni-channel customer service app development, streamlining interactions for a seamless user experience.</li>
+         <li>•  Collaborated on client projects, focusing on web performance, enhancing quality, speed, and user satisfaction.</li>
+         <li>•	Acted as a mentor for junior developers, guiding them to excel in their roles and contributing to increased productivity. Facilitated the implementation of cutting-edge solutions for intricate challenges.</li>
+         <li>•	<strong>Tech Stack:</strong> Typescript, ReactJS, Gatsby, NextJS, WebSocket, PWA, Redux, Zustand</li>
         </Step>
       </ul>
       <Divider />

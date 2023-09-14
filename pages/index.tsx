@@ -18,9 +18,7 @@ export default function Home() {
           <h1>Zahidul Hossain Choyan</h1>
           <h2>Front-end Engineer</h2>
           <p>
-            I have seven years of experience in developing,
-            and managing websites, and applications for various companies.
-            Open for any kind of consultency.
+            With a rich tapestry of nine years of hands-on experience in web development and management across diverse industries, I bring a proven track record of crafting exceptional websites and applications.
              {/* –&nbsp;
             {" while you're here "}
             <Link href="/about">
