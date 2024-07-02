@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="en">
       <Head>
-          <script async src="https://analytics.umami.is/script.js" data-website-id="0acee280-61de-4f3f-a1fb-6a388a5bdfed"></script>
+        <script async id="cookieyes" type="text/javascript" src="https://cdn-cookieyes.com/client_data/2ce4becbe5fc2d08d4e7156e/script.js"/>
       </Head>
       <body>
         <Main />
