@@ -47,8 +47,10 @@ export default function Home() {
         </Script> */}
 
         <Script id='cookie'> {
-          `var _iub = _iub || [];
-          _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,"enableLgpd":true,"enableUspr":true,"fadpApplies":true,"floatingPreferencesButtonDisplay":"anchored-bottom-right","lang":"en","perPurposeConsent":true,"siteId":3694881,"usprApplies":true,"whitelabel":false,"cookiePolicyId":29052517, "banner":{ "acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"explicitWithdrawal":true,"listPurposes":true,"ownerName":"choyan.github.io","position":"float-top-center","rejectButtonDisplay":true,"showTitle":false,"showTotalNumberOfProviders":true }};`
+          `
+          var _iub = _iub || [];
+          _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,"enableLgpd":true,"enableUspr":true,"fadpApplies":true,"floatingPreferencesButtonDisplay":"anchored-bottom-right","lang":"en","perPurposeConsent":true,"siteId":3694881,"usprApplies":true,"whitelabel":false,"cookiePolicyId":29052517, "banner":{ "acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"explicitWithdrawal":true,"listPurposes":true,"ownerName":"choyan.github.io","position":"float-top-center","rejectButtonDisplay":true,"showTitle":false,"showTotalNumberOfProviders":true }};
+          `
           }
         </Script>
         <Script src="https://cs.iubenda.com/autoblocking/3694881.js"/>
