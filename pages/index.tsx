@@ -19,8 +19,11 @@ export default function Home() {
           <h1>Zahidul Hossain Choyan</h1>
           <h2>Front-end Engineer</h2>
           <p>
-            With a rich tapestry of nine years of hands-on experience in web development and management across diverse industries, I bring a proven track record of crafting exceptional websites and applications.
-             {/* –&nbsp;
+            With a rich tapestry of nine years of hands-on experience in web
+            development and management across diverse industries, I bring a
+            proven track record of crafting exceptional websites and
+            applications.
+            {/* –&nbsp;
             {" while you're here "}
             <Link href="/about">
               learn more about me
@@ -28,7 +31,7 @@ export default function Home() {
           </p>
         </ContentWrapper>
         <RoundImage
-          src='/assets/png/choyan.jpeg'
+          src="/assets/png/choyan.jpeg"
           alt="Zahidul Hossain Choyan"
           width={150}
           height={150}
@@ -36,28 +39,13 @@ export default function Home() {
       </HeroFlex>
       {/* <Projects /> */}
       {/* <Posts title="Featured Stories" /> */}
-      <div style={{
-        'marginTop': '60px'
-      }}>
+      <div
+        style={{
+          marginTop: "60px",
+        }}
+      >
         <Timeline />
       </div>
-      <Script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="2d9a667f-4b09-4e9f-8ed7-7312078fa3c3" data-blockingmode="auto" type="text/javascript"/>
-        {/* <a href="https://www.iubenda.com/privacy-policy/29052517" className="iubenda-white iubenda-noiframe iubenda-embed iubenda-noiframe " title="Privacy Policy ">Privacy Policy</a> */}
-        {/* <Script id="iubenda">
-          {`(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);`}
-        </Script> */}
-
-        {/* <Script id='cookie'> {
-          `
-          var _iub = _iub || [];
-          _iub.csConfiguration = {"askConsentAtCookiePolicyUpdate":true,"enableFadp":true,"enableLgpd":true,"enableUspr":true,"fadpApplies":true,"floatingPreferencesButtonDisplay":"anchored-bottom-right","lang":"en","perPurposeConsent":true,"siteId":3694881,"usprApplies":true,"whitelabel":false,"cookiePolicyId":29052517, "banner":{ "acceptButtonDisplay":true,"closeButtonDisplay":false,"customizeButtonDisplay":true,"explicitWithdrawal":true,"listPurposes":true,"ownerName":"choyan.github.io","position":"float-top-center","rejectButtonDisplay":true,"showTitle":false,"showTotalNumberOfProviders":true }};
-          `
-          }
-        </Script>
-        <Script src="https://cs.iubenda.com/autoblocking/3694881.js"/>
-        <Script src="//cdn.iubenda.com/cs/gpp/stub.js"/>
-        <Script src="//cdn.iubenda.com/cs/iubenda_cs.js"  async/> */}
-
     </Container>
   );
 }
